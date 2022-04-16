@@ -1,6 +1,5 @@
 const products = [
     {
-        _id: '1',
         name: 'Airpods Wireless Bluetooth Headphone',
         image: '/images/silver-iphone-airpods.jpg',
         description: 'Bluetooth technology lets you connect it with compatible devices wirlessly High-quality AAC audio offers immersive listening exprience Built-in microphone allows you to take calls while working',
@@ -12,7 +11,6 @@ const products = [
         numReviews: 4,
     },
     {
-        _id: '2',
         name: 'iphone 11 256GB Memory',
         image: '/images/iphone_11.jpg',
         description: 'Introducing the iphone 11 Pro. A transformative tripple-camera system that adds tons of capabilities without complexity. An unprecedented leap in battery life',
@@ -24,7 +22,6 @@ const products = [
         numReviews: 4,
     },
     {
-        _id: '3',
         name: 'Cannon EOS 80D DSLR camera',
         image: '/images/EOS 80D Cannon.jpg',
         description: 'Charaterize by versatile imaging spaces, the Cannon EOS 80D further clarifies itself using a pair of robust focusing systems and an intuitive design',
@@ -36,7 +33,6 @@ const products = [
         numReviews: 3,
     },
     {
-        _id: '4',
         name: 'Sonny playstation 4 pro White Version',
         image: '/images/sonny_ps4-pro.jpg',
         description: 'The altimate home entertainment center starts with Playstation. Whether you are into gaming, HD movies, television, Music',
@@ -48,7 +44,6 @@ const products = [
         numReviews: 3,
     },
     {
-        _id: '5',
         name: 'Logitech G-Series Gaming Mouse',
         image: '/images/Logitech-G-Pro.jpg',
         description: 'get a better handle on your games with this Logiech LIGHTSYNC gaming mouse. the six programmable buttons allows customization for a smooth playing experience',
@@ -60,7 +55,6 @@ const products = [
         numReviews: 2,
     },
     {
-        _id: '6',
         name: 'Amazon Echo Dot 3rd Generation',
         image: '/images/Amazon-Echo-Dot-3.jpg',
         description: 'Meet Eco Dot - Our most popular smart speaker with a facric design. It is our most compact smart speaker that fits perfectly into small space ',
